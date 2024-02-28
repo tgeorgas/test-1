@@ -1,5 +1,5 @@
 input: build
-output: site
+output: docs
 url: # Add your website address here
 branding:
   title: Project Name
